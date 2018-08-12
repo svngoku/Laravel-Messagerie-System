@@ -5,3 +5,6 @@ Simple système de messagerie avec Laravel
 Routes 
 Vues
 Modèles
+
+## Template
+![alt text](https://raw.githubusercontent.com/svngoku/Larevel-CRUD-System/master/Messagerie.png)

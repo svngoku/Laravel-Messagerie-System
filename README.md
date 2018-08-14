@@ -1,4 +1,4 @@
-# Larevel Messagerie System ( With Yourself XD )
+# Larevel Messagerie System
 Simple système de messagerie avec Laravel 
 
 ### Chapitre apprehender sur Laravel

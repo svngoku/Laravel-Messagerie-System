@@ -1,9 +1,9 @@
 # Larevel Messagerie System
-Simple système de messagerie avec Laravel 
+Simple système de messagerie avec Laravel + Bootstrap 
 
 ### Chapitre apprehender sur Laravel
 * Routes 
-* Vues
+* Vues ( Moteur de Template Blade)
 * Modèles
 
 ## Template

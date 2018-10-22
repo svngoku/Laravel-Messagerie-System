@@ -1,7 +1,8 @@
-# Larevel Messagerie System
+# Laravel Messagerie System
 Simple système de messagerie avec Laravel + Bootstrap 
-
-### Chapitre apprehender sur Laravel
+## Démarrer l'application
+  Pour démarrer une application avec Laravel , nous avons la commande ``` php artisan serve ``` qui lance le serveur interne de laravel . Par défaut , votre application tournera sur le port ``` 8000 ``` 
+  ### Chapitre apprehender sur Laravel
 * Routes 
 * Vues ( Moteur de Template Blade)
 * Modèles

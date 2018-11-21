@@ -8,7 +8,7 @@ class Project {
     
     public function readme()
     {
-      echo "Welcome to".$project." write in ".$repo ;
+      echo "Welcome to".$project." write on ".$repo ;
     }
   
   }
